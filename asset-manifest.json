@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/encrypt-decrypt/static/css/main.baf00433.css",
+    "main.js": "/encrypt-decrypt/static/js/main.7b1d24a6.js",
+    "static/js/787.2e1fd873.chunk.js": "/encrypt-decrypt/static/js/787.2e1fd873.chunk.js",
+    "index.html": "/encrypt-decrypt/index.html",
+    "main.baf00433.css.map": "/encrypt-decrypt/static/css/main.baf00433.css.map",
+    "main.7b1d24a6.js.map": "/encrypt-decrypt/static/js/main.7b1d24a6.js.map",
+    "787.2e1fd873.chunk.js.map": "/encrypt-decrypt/static/js/787.2e1fd873.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.baf00433.css",
+    "static/js/main.7b1d24a6.js"
+  ]
+}
